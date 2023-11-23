@@ -1,0 +1,100 @@
+@media (max-width: 375px) {
+    .Container-fluid {
+     
+        width: 100px !important;
+        
+      
+     
+    }
+
+}
+
+@media (max-width: 375px) {
+    .Container-fluid #input {
+     
+        width: 200px !important;
+        
+      
+     
+    }
+
+}
+@media (max-width: 414px) {
+    .Container-fluid {
+     
+        width: 90px !important;
+        height: 600px !important;
+        
+      
+     
+    }
+
+}
+
+@media (max-width: 414px) {
+    .Container-fluid #input {
+     
+        width: 200px !important;
+        
+      
+     
+    }
+
+}
+
+
+
+@font-face {
+    font-family: "hammad";
+    
+    src: url(./Poppins-Medium.ttf);
+}
+
+*{
+    font-family: hammad;
+}
+
+body{
+    background: linear-gradient(135deg, #153677 , #333  ) !important;
+}
+
+
+.Container-fluid{
+  width: 350px !important;
+  background-color: aliceblue !important;
+  border-radius: 20px !important;
+  height: 400px !important;
+}
+
+
+
+
+
+
+
+
+
+#input{
+    width: 300px !important;
+    border-radius: 15px !important;
+    height: 50px !important;
+    border-color: aliceblue !important;
+    padding-left: 20px !important;
+    margin-bottom: 20px !important;
+    margin-top: 20px !important;
+}
+
+#input:hover{
+    cursor: pointer !important;
+    /* border-color: aliceblue !important; */
+}
+
+.headings{
+    font-size: medium !important;
+    margin: 20px !important;
+    
+}
+
+#link{
+    margin-bottom: 20px !important;
+}
